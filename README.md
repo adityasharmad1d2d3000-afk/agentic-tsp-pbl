@@ -8,7 +8,8 @@ This project explores the Travelling Salesman Problem (TSP) using an Agentic AI-
 ## Algorithms Used
 - Greedy (Nearest Neighbor)
 - Genetic Algorithm (GA)
-- Agentic Hybrid (Greedy initialization + GA refinement)
+- Ant Colony Optimization (ACO)
+- Agentic Hybrid (Greedy initialization + GA refinement + ACO Optimization)
 
 ## Results
 Simulation results compare tour length and execution time across different approaches. Bar graphs generated from Python simulations are included in this repository.
